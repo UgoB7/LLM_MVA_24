@@ -1,0 +1,5 @@
+pip install transformers opencv-python pillow torch
+
+
+sudo apt-get update
+sudo apt-get install libgl1-mesa-glx
