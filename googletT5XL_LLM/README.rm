@@ -1,0 +1,3 @@
+Here is the code for generating some output using Google T5.
+
+The JSON format output is not workning, so we tried with simpler prompts and simpler format, but still have issues.
